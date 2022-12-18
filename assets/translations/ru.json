@@ -1,0 +1,17 @@
+{
+    "title": "Приложение ДМЕ",
+    "settings": "Настройки",
+    "change_lang": "Сhange to English",
+    "dark_theme": "Темная тема",
+    "light_theme": "Светлая тема",
+    "message": "Получил ваше сообщение",
+    "version": "Версия: {}",
+    "first_name": "Имя: {}",
+    "last_name": "Фамилия: {}",
+    "id_user": "Айди: {}",
+    "phone": "Телефон: {}",
+    "call": "Позвонить",
+    "sms": "СМС",
+    "build_number": "Номер сборки: {}",
+    "user": "Пользователь {} {}"
+}

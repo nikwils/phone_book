@@ -1,0 +1,17 @@
+{
+    "title": "App DME",
+    "settings": "Settings",
+    "change_lang": "Изменить на Русский",
+    "dark_theme": "Dark theme",
+    "light_theme": "Light theme",
+    "message": "Got your message",
+    "version": "Version: {}",
+    "first_name": "Name: {}",
+    "last_name": "Surname: {}",
+    "id_user": "Id: {}",
+    "phone": "Phone: {}",
+    "call": "Call",
+    "sms": "SMS",
+    "build_number": "Build number: {}",
+    "user": "User {} {}"
+}
